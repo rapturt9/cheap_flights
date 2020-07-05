@@ -330,7 +330,7 @@ const GetCheapFlightIntent_Handler = {
         "content-type": "application/octet-stream",
         "x-rapidapi-host":
           "skyscanner-skyscanner-flight-search-v1.p.rapidapi.com",
-        "x-rapidapi-key": "bdce915616msh9b51818bb5d8086p110126jsn146e9ad6791f",
+        "x-rapidapi-key": "XXXXXXXXXXXXXXXX",
         useQueryString: true,
       },
       params: {
